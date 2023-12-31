@@ -1,16 +1,34 @@
-### Hi there 👋
-
-<!--
-**clydeconfigs/clydeconfigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Configs/
+├── alacritty
+│   ├── alacritty.toml
+│   └── alacritty.yml
+├── fc.css
+├── i3
+│   └── config
+├── i3status
+│   └── config
+├── micro
+│   └── settings.json
+├── picom.conf
+├── ranger
+│   └── rc.conf
+└── rofi-network-manager.conf
+shell
+├── autobluetooth
+├── bm3
+├── dictionary
+├── genrandom
+├── google
+├── manual
+├── Manual.html
+├── networkmanager
+├── screenrecorder_libx264.sh
+├── screenrecorder.sh
+├── screenshoter.sh
+├── sync
+│   ├── copy_and_sync_local_hdd.sh
+│   ├── package_list.txt
+│   └── sync_external_hdd.sh
+└── weblinks
+```
