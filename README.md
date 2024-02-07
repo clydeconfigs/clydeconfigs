@@ -1,16 +1,21 @@
 ```
-Configs (only directories)
-├── config
-│   ├── alacritty
-│   ├── fish
-│   ├── i3
-│   ├── i3status
-│   ├── micro
+Configs/ (stripped)
+├── config/
+│   ├── alacritty/
+│   ├── fish/
+│   ├── i3/
+│   ├── i3status/
+│   ├── micro/
 │   │   └── ... (all plugins here)
-│   └── ranger
-└── home
+│   └── ranger/
+└── home/
+    ├── .bash_functions
+    ├── .bashrc
+    ├── .vimrc
+    └── .Xresources
 
-shell
+
+shell/
 ├── autobluetooth
 ├── blank_window
 ├── bm3
@@ -25,7 +30,7 @@ shell
 ├── ip
 ├── sa
 ├── screenshoter
-├── sync
+├── sync/
 │   ├── copy_and_sync_local_hdd.sh
 │   ├── copy_configs.sh
 │   ├── sync_external_hdd2.sh
