@@ -6,7 +6,7 @@ while true
     if test "$user_input" = "YES"
         break
     else
-        echo "Please type YES in uppercase."
+        exit 1
     end
 end
 
@@ -21,4 +21,3 @@ else
     rsync -av ~/Media/Code/Configs/home/ ~/
           # NO "--delete"! DON'T OVERWRITE EVERYTHING!  
 end
-
