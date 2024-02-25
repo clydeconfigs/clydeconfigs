@@ -1,15 +1,17 @@
 ```
 Configs
 ├── config
-│   ├── alacritty
 │   ├── fish
 │   ├── i3
 │   ├── i3status
 │   ├── micro
 │   │   └── plug
 │   │       ├── ...
-│   │      ...
+│   │      ...
 │   └── ranger
+├── fonts
+│   ├── ...
+│  ...
 ├── home
 └── st
 
@@ -44,17 +46,19 @@ rofi/
 ├── dictionary*
 ├── dictionary2*
 ├── dmenu*
+├── emoji*
 ├── exiti3*
 ├── filemanager*
 ├── genrandom*
 ├── google*
 ├── ip*
 ├── pass*
+├── rofi_vars
 ├── time*
 ├── translate*
 └── weblinks*
 
 info:
-* the Configs/config/alacritty has been abandoned since Configs/st creation
 * Configs are only directories (tree -d)
+* fonts and micro folders in Configs are not my work
 ```
