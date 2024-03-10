@@ -16,8 +16,9 @@ if test -z "$argv[1]"
     echo "No arguments provided"
     exit 1
 else
-    rsync -av --delete --exclude ISO --exclude WIKIs $argv[1] ~/Media/ && \
-    rsync -av ~/Media/Code/Configs/config/ ~/.config/ && \
+    rsync -av --delete --exclude ISO --exclude WIKIs $argv[1] ~/Media/
+    rsync -av ~/Media/Code/Configs/config/ ~/.config/
+    rsync -av ~/Media/Code/Configs/local/ ~/.local/
     rsync -av ~/Media/Code/Configs/home/ ~/
           # NO "--delete"! DON'T OVERWRITE EVERYTHING!  
 end
