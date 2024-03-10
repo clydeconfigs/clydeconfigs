@@ -1,7 +1,7 @@
 #!/bin/fish
 
 while true
-    echo -n "Type YES (uppercase) if you want to sync external 'Media' into the current local drive: "
+    echo "Type YES (uppercase) if you want to sync external 'Media' into the current local drive: "
     set user_input (read)
     if test "$user_input" = "YES"
         break
