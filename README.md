@@ -37,8 +37,6 @@ Code
 │   └── st
 │       ├── ...
 │       ...
-├── i3bar
-│   └── lol.sh
 ├── Projects
 │   ├── easyblog
 │   │   ├── ...
@@ -64,7 +62,6 @@ Code
 │   ├── google
 │   ├── ip
 │   ├── pass
-│   ├── rofi_vars
 │   ├── time
 │   ├── translate
 │   ├── weblinks
@@ -72,35 +69,16 @@ Code
 ├── shell
 │   ├── ec
 │   ├── encryption
-│   │   ├── d
 │   │   ├── d2
 │   │   ├── d4
-│   │   ├── e
 │   │   ├── e2
 │   │   └── e4
 │   ├── eo
-│   ├── expanded
-│   │   ├── decrypt
-│   │   ├── decrypt2
-│   │   ├── decrypt4
-│   │   ├── encrypt
-│   │   ├── encrypt2
-│   │   ├── encrypt4
-│   │   ├── encryptedluksclose
-│   │   ├── encryptedluksopen
-│   │   ├── savexclip
-│   │   └── sfetch
 │   ├── loop
 │   ├── sa
 │   ├── screenshoter
 │   └── sf
-├── sync
-│   ├── copy_configs_and_sync_local_hdd.sh
-│   ├── copy_configs.sh
-│   ├── sync_external_hdd.sh
-│   └── sync_local_hdd.sh
 └── tools
     ├── ...
     ...
-87 directories, 372 files
 ```
