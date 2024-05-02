@@ -1,35 +1,24 @@
 ```
-rofi
-├── autobluetooth
-├── bm3
-├── calculator
-├── cmd
-├── cryptsetupui
-├── dictionary
-├── dmenu
-├── emoji
-├── evalfilemanager
-├── exiti3
-├── filemanager
-├── genrandom
-├── google
-├── greenclip
-├── interface
-├── internet
-├── ip
-├── pass
-├── time
-├── translate
-├── weblinks
-└── windowcd
-
-scripts
-├── cefs
-├── loop
-├── maim
-├── rand
-├── sa
-├── screenrecorder
-├── screenshoter
-└── sf
+rofi                         scripts
+├── autobluetooth            ├── cefs
+├── bm3                      ├── container
+├── calculator               ├── loop
+├── cmd                      ├── maim
+├── cryptsetupui             ├── rand
+├── dictionary               ├── sa
+├── dmenu                    ├── screenrecorder
+├── emoji                    ├── screenshoter
+├── exiti3                   ├── sf
+├── filemanager              └── timer
+├── genrandom                
+├── google                   
+├── greenclip                
+├── interface                
+├── internet                 
+├── ip                       
+├── pass                     
+├── time                     
+├── translate                
+├── weblinks                 
+└── windowcd       
 ```
