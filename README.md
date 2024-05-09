@@ -1,5 +1,6 @@
 ```
 rofi           scripts
+======================
 autobluetooth  base58
 bm3            base94
 calculator     cefs
