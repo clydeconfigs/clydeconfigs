@@ -1,14 +1,14 @@
 ```
 rofi           scripts
 ======================
+emoji          base
 autobluetooth  base58
 bm3            base94
 calculator     cefs
 cmd            container
 cryptsetupui   ec
-dictionary     encrypt
 dmenu          eo
-emoji          l
+dictionary     encrypt
 exiti3         loop
 filemanager    maim
 genrandom      rand
@@ -19,7 +19,7 @@ internet       sf
 ip             tardesktop
 pass           timer
 time           zst
-translate
+translate 
 weblinks
 windowcd
 ```
