@@ -1,24 +1,24 @@
 ```
-rofi                         scripts
-├── autobluetooth            ├── cefs
-├── bm3                      ├── container
-├── calculator               ├── loop
-├── cmd                      ├── maim
-├── cryptsetupui             ├── rand
-├── dictionary               ├── sa
-├── dmenu                    ├── screenrecorder
-├── emoji                    ├── screenshoter
-├── exiti3                   ├── sf
-├── filemanager              └── timer
-├── genrandom                
-├── google                   
-├── greenclip                
-├── interface                
-├── internet                 
-├── ip                       
-├── pass                     
-├── time                     
-├── translate                
-├── weblinks                 
-└── windowcd       
+rofi           scripts
+autobluetooth  base58
+bm3            base94
+calculator     cefs
+cmd            container
+cryptsetupui   ec
+dictionary     encrypt
+dmenu          eo
+emoji          l
+exiti3         loop
+filemanager    maim
+genrandom      rand
+google         sa
+greenclip      screenrecorder
+interface      screenshoter
+internet       sf
+ip             tardesktop
+pass           timer
+time           zst
+translate
+weblinks
+windowcd
 ```
